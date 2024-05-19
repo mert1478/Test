@@ -17,7 +17,7 @@ namespace D1TechTestCase.Repository.Seeds
                 new User { 
                     Id = Guid.Parse("212ec710-146e-4ea2-b3ce-894041f0d35f"),
                     UserName = "Username1", 
-                    NormalizedUserName = "username1", 
+                    NormalizedUserName = "USERNAME1", 
                     PasswordHash = "e43d1148859359692d0029a4eab11f38b4abe08651a6494fe918b5d242997ba0", 
                     SecurityStamp= "4SQt0BzbEKvLy6xqQcQcpRWYGGNcqcVK", 
                     UpdatedDate = DateTime.UtcNow,
@@ -30,7 +30,7 @@ namespace D1TechTestCase.Repository.Seeds
                 {
                     Id = Guid.Parse("dd5530f4-5666-4cb7-985f-2fb4af8bf1f3"),
                     UserName = "Username2",
-                    NormalizedUserName = "username2",
+                    NormalizedUserName = "USERNAME2",
                     PasswordHash = "0c626bc1bb36f539438b2dfeb9dad4ba91e0ea1a137b6ea4f4e77d3ad85ccdbd",
                     SecurityStamp = "39f0VgWxGH8X9cqn9Mwn4zf0a4bY0fmS",
                     UpdatedDate = DateTime.UtcNow,
@@ -43,7 +43,7 @@ namespace D1TechTestCase.Repository.Seeds
                 {
                     Id = Guid.Parse("64e12255-c39c-4129-805a-d1d62043f356"),
                     UserName = "Admin1",
-                    NormalizedUserName = "admin1",
+                    NormalizedUserName = "ADMIN1",
                     PasswordHash = "42065179a605734438267e630d871655eee6bf86d2df5e0c95ca253ea83807da",
                     SecurityStamp = "fM1jtK7Y5xqAbEFa2uc0DQdheCaBYMq0",
                     UpdatedDate = DateTime.UtcNow,
