@@ -1,0 +1,14 @@
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\bin\Debug\net8.0\D1TechTestCase.Core.deps.json
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\bin\Debug\net8.0\D1TechTestCase.Core.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\bin\Debug\net8.0\D1TechTestCase.Core.pdb
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.csproj.AssemblyReference.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.AssemblyInfoInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.AssemblyInfo.cs
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.csproj.CoreCompileInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\refint\D1TechTestCase.Core.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.pdb
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\ref\D1TechTestCase.Core.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\bin\Debug\net8.0\D1TechTestCase.Core.runtimeconfig.json
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase\obj\Debug\net8.0\D1TechTestCase.Core.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Repository.deps.json
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Repository.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Repository.pdb
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Core.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Core.pdb
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.csproj.AssemblyReference.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.AssemblyInfoInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.AssemblyInfo.cs
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTe.863650B5.Up2Date
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\refint\D1TechTestCase.Repository.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.pdb
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\ref\D1TechTestCase.Repository.dll
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\bin\Debug\net8.0\D1TechTestCase.Repository.runtimeconfig.json
+C:\Users\mertc\OneDrive\Masaüstü\c#\D1TechTestCase\D1TechTestCase.Repository\obj\Debug\net8.0\D1TechTestCase.Repository.genruntimeconfig.cache
