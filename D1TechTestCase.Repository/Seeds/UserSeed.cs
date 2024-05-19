@@ -43,7 +43,7 @@ namespace D1TechTestCase.Repository.Seeds
                 {
                     Id = Guid.Parse("64e12255-c39c-4129-805a-d1d62043f356"),
                     UserName = "Admin1",
-                    NormalizedUserName = "ADMIN1",
+                    NormalizedUserName = "ADMİN1",
                     PasswordHash = "42065179a605734438267e630d871655eee6bf86d2df5e0c95ca253ea83807da",
                     SecurityStamp = "fM1jtK7Y5xqAbEFa2uc0DQdheCaBYMq0",
                     UpdatedDate = DateTime.UtcNow,
