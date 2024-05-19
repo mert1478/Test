@@ -11,6 +11,6 @@ How to use:
 Test Users:
 {Username}    -   {Password}
 
-Username1   -   Username1.
-Username2   -   Username2.
-   Admin1   -   Admin1.
+(Username1   -   Username1.)
+(Username2   -   Username2.)
+   (Admin1   -   Admin1.)
