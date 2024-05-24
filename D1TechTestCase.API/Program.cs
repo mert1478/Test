@@ -87,8 +87,6 @@ builder.Services.Configure<FormOptions>(x =>
     x.MultipartBodyLengthLimit = int.MaxValue; // ayarladýðýnýz limit
     x.MemoryBufferThreshold = int.MaxValue;
 });
-builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
-builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.Configure<TokenOption>(builder.Configuration.GetSection("TokenOption"));
 builder.Services.AddAuthentication(options =>
 {
